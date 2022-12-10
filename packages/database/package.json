@@ -12,7 +12,7 @@
 	"types": "dist/index.d.ts",
 	"dependencies": {
 		"@trust/webcrypto": "^0.9.2",
-		"express": "^4.16.4",
+		"express": "^4.17.3",
 		"gun": "latest",
 		"node-webcrypto-ossl": "^1.0.42",
 		"text-encoding": "^0.7.0",
